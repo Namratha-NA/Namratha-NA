@@ -6,7 +6,7 @@
 
 Welcome to my GitHub profile! I’m Namratha, a passionate and driven data science graduate student at **Stevens Institute of Technology**, actively exploring data-driven solutions that combine technical rigor with real-world impact. With experience across Python, PySpark, SQL, and machine learning, I love building models, analyzing data, and telling stories through insightful visualizations.
 
-## 🛠 Skills & Tools
+## Skills & Tools
 
 - **Languages**: Python, SQL, R, C  
 - **Libraries**: Pandas, NumPy, Scikit-Learn, TensorFlow, Seaborn, Matplotlib  
@@ -31,6 +31,6 @@ Welcome to my GitHub profile! I’m Namratha, a passionate and driven data scien
 
 ## Let’s Connect
 
-I’m currently exploring **internship and full-time opportunities** in **data science, data analysis**, or **data engineering** roles. If you’re working on something exciting or have an opportunity in mind, feel free to reach out — I’d love to connect!
+I’m currently exploring **internship and full-time opportunities** in **data science, data analysis**, or **data engineering** roles. If you’re working on something exciting or have an opportunity in mind, feel free to reach out. I’d love to connect!
 
 Thanks for visiting my GitHub profile! 😊
