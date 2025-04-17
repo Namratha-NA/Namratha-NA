@@ -1,8 +1,8 @@
 # Namratha Nagathihalli Anantha
 
 **Data Science Graduate Student | Aspiring Data Analyst | Machine Learning Enthusiast**  
-📍 New York City    
-🔗 [LinkedIn](https://www.linkedin.com/in/namratha-nagathihalli-anantha-1821291b4) | [GitHub](https://github.com/Namratha-NA)
+New York City    
+[LinkedIn](https://www.linkedin.com/in/namratha-nagathihalli-anantha-1821291b4) | [GitHub](https://github.com/Namratha-NA)
 
 Welcome to my GitHub profile! I’m Namratha, a passionate and driven data science graduate student at **Stevens Institute of Technology**, actively exploring data-driven solutions that combine technical rigor with real-world impact. With experience across Python, PySpark, SQL, and machine learning, I love building models, analyzing data, and telling stories through insightful visualizations.
 
