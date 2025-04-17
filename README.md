@@ -27,10 +27,4 @@ Welcome to my GitHub profile! I’m Namratha, a passionate and driven data scien
 *Bangalore Institute of Technology, India*  
 *GPA: 3.70 | Aug 2019 – May 2023*
 
----
 
-## Let’s Connect
-
-I’m currently exploring **internship and full-time opportunities** in **data science, data analysis**, or **data engineering** roles. If you’re working on something exciting or have an opportunity in mind, feel free to reach out. I’d love to connect!
-
-Thanks for visiting my GitHub profile! 😊
