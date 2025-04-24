@@ -9,7 +9,7 @@ I’m currently seeking full-time opportunities as a **Data Scientist**, **Data 
 
 ### Education  
 **Master of Science in Data Science**  
-Stevens Institute of Technology, Hoboken, NJ — *Expected May 2025*  
+Stevens Institute of Technology, Hoboken, NJ — *May 2025*  
 **Bachelor of Engineering in Electronics & Communication**  
 Bangalore Institute of Technology, India — *May 2023*  
 
