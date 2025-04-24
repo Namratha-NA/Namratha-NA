@@ -43,7 +43,6 @@ Bangalore Institute of Technology, India — *May 2023*
 **Cloud & APIs:** AWS, OpenAI, PRAW, BeautifulSoup  
 **Visualization:** Tableau, Power BI, MATLAB  
 **Tools:** Git, GitHub, Jupyter, SQLite, Excel, VS Code, Microsoft Office  
-**Certifications:** AWS AI Practitioner (AIF-C01), Power BI Essentials, Tableau 2024.1
 
 
 ## Certifications
