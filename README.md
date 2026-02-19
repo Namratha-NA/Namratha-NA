@@ -16,13 +16,19 @@ Bangalore Institute of Technology, India — *May 2023*
 
 ## Experience
 
+### Data Scientist
+**Synovix** | *Sep 2025 – Feb 2026*
+- Developed machine learning based pricing optimization models using regression and clustering to predict vendor spend thresholds and identify cost-efficient substitutions across medical supply categories.
+- Engineered an AWS-integrated workflow to automate data ingestion, feature engineering, and model evaluation.
+- Delivered actionable insights that reduced procurement spend, enabling data-driven vendor negotiations and improved financial forecasting accuracy. 
+
 ### Graduate Teaching Assistant  
 **Stevens Institute of Technology** | *Sep 2024 – May 2025*  
 - Delivered guided instruction in "Numerical Linear Algebra for Big Data" and facilitated understanding of complex matrix and vector operations applied in machine learning.  
 - Organized quizzes, maintained grading integrity, and held weekly office hours to support 60+ graduate students with coursework and projects.  
 - Helped reduce coding and conceptual errors by 25% by coaching students in Python-based applications for data analysis and ML workflows.
 
-### Technical Intern  
+### Data Analyst Intern  
 **Defense Research and Development Organization (DRDO CASDIC)** | *Aug 2022 – Oct 2022*  
 - Analyzed and interpreted radar warning receiver data to improve aircraft avionics efficiency, reducing discrepancies in signal processing by 10%.  
 - Built interactive dashboards using Python (Matplotlib, Seaborn) and Power BI for real-time insights into system behavior.  
