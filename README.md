@@ -1,9 +1,10 @@
-Hello, I'm Namratha Nagathihalli Anantha  
-I’m a data enthusiast who finds joy in making sense of complex information. Whether it’s discovering patterns, building models, or visualizing insights, I enjoy every part of the data journey. Currently pursuing my Master’s in Data Science at Stevens Institute of Technology, I’m continuously exploring the possibilities that data, code, and curiosity can unlock.
+Hello, 
 
-My work spans machine learning, big data technologies, NLP, and statistical modeling. From analyzing financial fraud to understanding emotional patterns in health discussions, I’ve worked on a range of projects that reflect both technical depth and analytical thinking.
+I'm Namratha N A, a Decision Scientist at Tesco, where I apply data science and analytics to solve real business problems at scale. I hold an M.S. in Data Science from Stevens Institute of Technology and am passionate about building end-to-end solutions that bridge machine learning, analytics, and measurable business outcomes. 
 
-I’m currently seeking full-time opportunities as a **Data Scientist**, **Data Analyst**, **Data Engineer**, **ML Engineer** or **Business Analyst**, any role where I can keep learning, building, and contributing through data.
+My experience spans predictive modeling, NLP/GenAI, cloud data pipelines, and business analytics, from healthcare pricing optimization and claims analysis to marketing ROI attribution, anomaly detection, and LLM-powered search systems. I've worked hands-on with Python, SQL, AWS, PySpark, XGBoost, LangChain, and RAG pipelines to deliver actionable insights across healthcare, finance, marketing, and now retail. 
+
+What drives me is solving meaningful problems by combining analytical rigor with practical impact. 
 
 ## About Me
 
@@ -15,14 +16,16 @@ Bangalore Institute of Technology, India — *May 2023*
 
 
 ## Experience
+### Decision Scientist
+**Tesco** | *Oct 2026*
 
 ### Data Scientist
-**Synovix** | *Sep 2025 – Feb 2026*
+**Synovix** | *June 2025 – May 2026*
 - Developed machine learning based pricing optimization models using regression and clustering to predict vendor spend thresholds and identify cost-efficient substitutions across medical supply categories.
 - Engineered an AWS-integrated workflow to automate data ingestion, feature engineering, and model evaluation.
 - Delivered actionable insights that reduced procurement spend, enabling data-driven vendor negotiations and improved financial forecasting accuracy. 
 
-### Graduate Teaching Assistant  
+### Data Science Teaching Assistant  
 **Stevens Institute of Technology** | *Sep 2024 – May 2025*  
 - Delivered guided instruction in "Numerical Linear Algebra for Big Data" and facilitated understanding of complex matrix and vector operations applied in machine learning.  
 - Organized quizzes, maintained grading integrity, and held weekly office hours to support 60+ graduate students with coursework and projects.  
@@ -63,20 +66,6 @@ Bangalore Institute of Technology, India — *May 2023*
 - Published research on machine learning for skin cancer detection.  
 - Finalist in hackathons focused on healthcare and data-driven solutions.
 
-## Projects
-
-### Web-Based Analysis of Women’s Hormonal Health Challenges
-- Collected and analyzed thousands of Reddit posts and medical blogs using NLP and web scraping tools.  
-- Built ML models (SVM, XGBoost) for emotion classification and visualized patterns using Tableau.
-
-### Customer Churn Prediction
-- Processed telecom data using PySpark and Databricks to optimize data flow and ML pipeline.  
-- Achieved 92.05% accuracy and identified churn patterns using Gradient Boosted Trees.
-
-### Anomaly Detection in Financial Transactions 
-- Analyzed over 6 million transactions to detect fraud using statistical tests and classification models.  
-- Developed logistic regression and neural network models reaching up to 98% accuracy.
-  
 
 ## What Drives Me
 I’m passionate about exploring data to discover stories, patterns, and possibilities. I love building models, learning new techniques, and applying data science in creative, impactful ways in all the domain.
